@@ -9,15 +9,15 @@ local function processfunction(functionname)
 end -- Very end of all funcions, DO NOT DELETE
 local products = {
 
-    ["Game Name"] = {
+    ["WRC ROBLOX Rally"] = {
 
-        ["Name"] = "Game Name", --developer game name, user cant see
+        ["Name"] = "WRC ROBLOX Rally", --developer game name, user cant see
         ["IDs"] = {
-            GameIDHere, -- duplicate and paste below for multiable game ids
+            4992570197, -- duplicate and paste below for multiable game ids
 
         },
         ["Version"] = "1.0.0", -- your development version, users cant see this
-        ["URL"] = "Your Raw Link",--you can use any raw link here
+        ["URL"] = "https://raw.githubusercontent.com/Lucasfin000/Scriptify/main/test.lua",--you can use any raw link here
         ["Function"] = "nil" --to use functions read the documentation
 
     },
